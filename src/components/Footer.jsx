@@ -9,20 +9,20 @@ function Footer() {
         <Row className="mb-3">
           <Col md={4}>
             <h5>About Us</h5>
-            <p>Bangun pengalaman luar biasa dengan React dan Bootstrap.</p>
+            <p>Toko buku online terpercaya dengan koleksi buku berkualitas.</p>
           </Col>
           <Col md={4}>
             <h5>Quick Links</h5>
             <ul className="list-unstyled">
               <li><a href="/" className="text-white-50">Home</a></li>
-              <li><a href="/team" className="text-white-50">Team</a></li>
+              <li><a href="/team" className="text-white-50">About</a></li>
               <li><a href="/contact" className="text-white-50">Contact</a></li>
             </ul>
           </Col>
           <Col md={4}>
             <h5>Contact Info</h5>
             <p className="text-white-50">
-              Email: info@technova.com<br/>
+              Email: info@booksales.com<br/>
               Phone: +62 812 3456 7890
             </p>
           </Col>
@@ -30,7 +30,7 @@ function Footer() {
         <hr className="bg-white-50" />
         <Row>
           <Col className="text-center">
-            <p className="mb-0">&copy; {currentYear} TechNova Solutions. All rights reserved.</p>
+            <p className="mb-0">&copy; {currentYear} BookSales. All rights reserved.</p>
           </Col>
         </Row>
       </Container>

@@ -41,7 +41,7 @@ function Contact() {
             <Col lg={12} className="text-center">
               <h1 className="display-4 fw-bold mb-3">Hubungi Kami</h1>
               <p className="lead text-muted mb-0">
-                Kami ingin mendengar dari Anda. Mari bicara!
+                Ada pertanyaan tentang buku atau pesanan? Kami siap membantu!
               </p>
             </Col>
           </Row>
@@ -133,7 +133,7 @@ function Contact() {
                     <div style={{ fontSize: '36px', marginBottom: '12px' }}>📍</div>
                     <h5 className="fw-bold">Alamat</h5>
                     <p className="text-muted mb-0">
-                      Jl. Teknologi No. 123<br/>
+                      Jl. Buku No. 123<br/>
                       Jakarta, Indonesia 12345
                     </p>
                   </Card.Body>
@@ -158,7 +158,7 @@ function Contact() {
                     <div style={{ fontSize: '36px', marginBottom: '12px' }}>✉️</div>
                     <h5 className="fw-bold">Email</h5>
                     <p className="text-muted mb-0">
-                      info@technova.com
+                      info@booksales.com
                     </p>
                   </Card.Body>
                 </Card>

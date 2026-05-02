@@ -6,7 +6,7 @@ function Header() {
     <Navbar bg="dark" expand="lg" sticky="top" className="navbar-dark shadow">
       <Container>
         <Navbar.Brand as={Link} to="/" className="fw-bold fs-4">
-          🚀 TechNova Solutions
+          � BookSales
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
@@ -15,7 +15,7 @@ function Header() {
               Home
             </Nav.Link>
             <Nav.Link as={Link} to="/team" className="me-3">
-              Team
+              About
             </Nav.Link>
             <Nav.Link as={Link} to="/contact">
               Contact

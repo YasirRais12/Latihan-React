@@ -59,9 +59,9 @@ function Team() {
         <Container>
           <Row className="align-items-center">
             <Col lg={12} className="text-center">
-              <h1 className="display-4 fw-bold mb-3">Tim Hebat Kami</h1>
+              <h1 className="display-4 fw-bold mb-3">Tentang BookSales</h1>
               <p className="lead text-muted mb-0">
-                Temui orang-orang berbakat di balik TechNova Solutions
+                Platform penjualan buku online terpercaya sejak 2020
               </p>
             </Col>
           </Row>
@@ -102,30 +102,30 @@ function Team() {
         <Container>
           <Row className="mb-5">
             <Col lg={12} className="text-center">
-              <h2 className="fw-bold mb-3">Nilai-Nilai Inti Kami</h2>
+              <h2 className="fw-bold mb-3">Mengapa Memilih Kami</h2>
             </Col>
           </Row>
 
           <Row className="g-4">
             <Col md={6} lg={3} className="text-center">
               <div style={{ fontSize: '48px', marginBottom: '16px' }}>💡</div>
-              <h5 className="fw-bold">Inovasi</h5>
-              <p className="text-muted">Selalu berpikir kreatif dan merangkul ide baru</p>
+              <h5 className="fw-bold">Koleksi Lengkap</h5>
+              <p className="text-muted">Ribuan judul buku dari berbagai kategori dan genre</p>
             </Col>
             <Col md={6} lg={3} className="text-center">
               <div style={{ fontSize: '48px', marginBottom: '16px' }}>🤝</div>
-              <h5 className="fw-bold">Kolaborasi</h5>
-              <p className="text-muted">Bekerja sama untuk mencapai hasil yang luar biasa</p>
+              <h5 className="fw-bold">Pengiriman Cepat</h5>
+              <p className="text-muted">Layanan pengiriman yang andal ke seluruh Indonesia</p>
             </Col>
             <Col md={6} lg={3} className="text-center">
               <div style={{ fontSize: '48px', marginBottom: '16px' }}>✨</div>
-              <h5 className="fw-bold">Keunggulan</h5>
-              <p className="text-muted">Berkomitmen untuk memberikan pekerjaan berkualitas tinggi</p>
+              <h5 className="fw-bold">Kualitas Terjamin</h5>
+              <p className="text-muted">Semua buku dalam kondisi prima dan asli</p>
             </Col>
             <Col md={6} lg={3} className="text-center">
               <div style={{ fontSize: '48px', marginBottom: '16px' }}>🌱</div>
-              <h5 className="fw-bold">Pertumbuhan</h5>
-              <p className="text-muted">Terus belajar dan meningkatkan diri</p>
+              <h5 className="fw-bold">Harga Terjangkau</h5>
+              <p className="text-muted">Penawaran harga terbaik untuk buku-buku berkualitas</p>
             </Col>
           </Row>
         </Container>
